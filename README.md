@@ -11,7 +11,7 @@ A basic todo application built with Spring Boot and Thymeleaf.
 - Responsive Bootstrap UI
 
 ## Technologies
-- Java 17
+- Java 21
 - Spring Boot 3
 - Thymeleaf
 - Bootstrap 5
